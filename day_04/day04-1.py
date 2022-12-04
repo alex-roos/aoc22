@@ -24,6 +24,8 @@ for pair in elf_pairs:
     output_array_1 = 100 * ['--']
     output_array_2 = 100 * ['--']
 
+    found_first_overlap = False
+
     for _i in range(elf1_sect_start, elf1_sect_end):
         if _i > 9:
             output_array_1[_i] = str(_i)
@@ -40,8 +42,9 @@ for pair in elf_pairs:
         if elf1_sect_end >= elf2_sect_end:
             count_overlaps += 1
             print(pair)
+            found_first_overlap = True
     
-    if elf2_sect_start <= elf1_sect_start:
+    if not found_first_overlap and (elf2_sect_start <= elf1_sect_start):
         if elf2_sect_end >= elf1_sect_end:
             count_overlaps += 1
             print(pair)
