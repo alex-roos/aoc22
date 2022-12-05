@@ -1,0 +1,614 @@
+['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 
+ 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'] 
+
+Line #1 1st Half: BccTFfTPT     2nd Half: sffdDDqsq
+f added to set ['f']
+Line #2 1st Half: lGGLQwFh      2nd Half: DgWdqvhW
+h added to set ['f', 'h']
+Line #3 1st Half: wbLNjGjlwLFrpSbllrH   2nd Half: nHHRmmJVBmZJRRVcBTc
+H added to set ['H', 'f', 'h']
+Line #4 1st Half: vvGLllBBLtll  2nd Half: JnJFMZNjFcNG
+G added to set ['G', 'H', 'f', 'h']
+Line #5 1st Half: bdhrhTgmhRrp  2nd Half: LJMMNJgNffnf
+g added to set ['G', 'H', 'f', 'g', 'h']
+Line #6 1st Half: qhRmTpzpzVzmTTbmVhWWWp        2nd Half: VvDtsLVlwBVHvSsDCvvBDl
+V added to set ['G', 'H', 'V', 'f', 'g', 'h']
+Line #7 1st Half: sLlhhthVR     2nd Half: ndBZzwBdV
+V already in set ['G', 'H', 'V', 'f', 'g', 'h']
+Line #8 1st Half: PfmsPsqsGFqrS         2nd Half: QpqBDDwpddDDM
+q added to set ['G', 'H', 'V', 'f', 'g', 'h', 'q']
+Line #9 1st Half: mFjvSFrjPS    2nd Half: vLJWvbRssN
+v added to set ['G', 'H', 'V', 'f', 'g', 'h', 'q', 'v']
+Line #10        1st Half: gWnWQtMMDQbQvMD       2nd Half: jjcwsvqcwsSSqZq
+v already in set ['G', 'H', 'V', 'f', 'g', 'h', 'q', 'v']
+Line #11        1st Half: HzPJTtmt      2nd Half: ZJJsqfBJ
+J added to set ['G', 'H', 'J', 'V', 'f', 'g', 'h', 'q', 'v']
+Line #12        1st Half: hCFPrNNPVNzF  2nd Half: tQhdQMWRhhDd
+h already in set ['G', 'H', 'J', 'V', 'f', 'g', 'h', 'q', 'v']
+Line #13        1st Half: sNhmsQZdNdsztNp       2nd Half: HGCdjcBcwCvGvCv
+d added to set ['G', 'H', 'J', 'V', 'd', 'f', 'g', 'h', 'q', 'v']
+Line #14        1st Half: brSlRfFF      2nd Half: ppHwfTpf
+f already in set ['G', 'H', 'J', 'V', 'd', 'f', 'g', 'h', 'q', 'v']
+Line #15        1st Half: MbRlRpqMnqRp  2nd Half: MhVtsQQQVWsM
+M added to set ['G', 'H', 'J', 'M', 'V', 'd', 'f', 'g', 'h', 'q', 'v']
+Line #16        1st Half: HsdttdfHrHrwdhftMHM   2nd Half: SDnJFwlQSgQZQZggZSW
+w added to set ['G', 'H', 'J', 'M', 'V', 'd', 'f', 'g', 'h', 'q', 'v', 'w']
+Line #17        1st Half: LjCTqBCmmmTq  2nd Half: gFQQFQjlnnDJ
+j added to set ['G', 'H', 'J', 'M', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #18        1st Half: GCTLBCmTBDBDPTTzqLCBpV        2nd Half: cctcHbtbrcMMsdsdtcPtdb
+P added to set ['G', 'H', 'J', 'M', 'P', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #19        1st Half: QnJLdNLfLRQjpLlPflfQnln       2nd Half: swRvwsHVWVHWVVDZwWHcrwV
+R added to set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #20        1st Half: zFbgtqCBhtgB  2nd Half: hsDZVDNHwvDv
+h already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #21        1st Half: zgCGCFCFGtM   2nd Half: pJjlGTnlnLN
+G already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #22        1st Half: ZFhJZbvZVmFpFnJbnZFbLnb       2nd Half: HPrjjQdBdCrMPQMQHrrrrVC
+V already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #23        1st Half: gTzlqmNlTflmtTR       2nd Half: HdDPqMjHDMrjdQd
+q already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #24        1st Half: wcRSwglcNSwgWmNzwNl   2nd Half: JZLpphbbnFhvLWhnphb
+W added to set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'q', 'v', 'w']
+Line #25        1st Half: lRRrcbRfQmwwB         2nd Half: LSLlvjjSvvFtS
+l added to set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 'v', 'w']
+Line #26        1st Half: WbghzhHWbsdHhV        2nd Half: tGLVSSvLFJtSGC
+V already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 'v', 'w']
+Line #27        1st Half: WWbWzPHDqP    2nd Half: fBqRZrmqnZ
+q already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 'v', 'w']
+Line #28        1st Half: frgLHMcHLrSZHPHcHrPNmM        2nd Half: JtTCTCbJfhdwVbfJwwTbdd
+f already in set ['G', 'H', 'J', 'M', 'P', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 'v', 'w']
+Line #29        1st Half: DpDWRjQvqjDGFW        2nd Half: hdVwQCnJgTnTbT
+Q added to set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 'v', 'w']
+Line #30        1st Half: vvqggRsRp     2nd Half: cssPrcsrN
+s added to set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 's', 'v', 'w']
+Line #31        1st Half: MccbcZjmbbNSbjllb     2nd Half: RqrhstVTMtqRtssTW
+M already in set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 's', 'v', 'w']
+Line #32        1st Half: qJdwCLdCzQQzwHLQL     2nd Half: TtsTtsTRVTVWWTJst
+J already in set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'q', 's', 'v', 'w']
+Line #33        1st Half: GdnpFHzwQCd   2nd Half: pvpbccPbSbq
+p added to set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #34        1st Half: CbQhZpTbTgMMgp        2nd Half: tzrdGtGzlVNlrh
+h already in set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #35        1st Half: FWvmmRHSmjqnSjqnSjPqjnm       2nd Half: NLGVGJlGWLlLrLWlVrGzNGW
+W already in set ['G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #36        1st Half: FwvvBjmBnqmVvFnvnVP   2nd Half: MDspDQTfZMCMTgDQTCB
+B added to set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #37        1st Half: VmrsHllHV     2nd Half: LTdZtRclL
+l already in set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #38        1st Half: bjwMNQGCjGjjPwp       2nd Half: RQnRLTtRQFvcdvt
+Q already in set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #39        1st Half: MbWgjMDpNLMjNpwGpjbPW         2nd Half: gfsHsqsHSrrHHJsgBSBzB
+g already in set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #40        1st Half: HFlwVhfLBZZLTLFH      2nd Half: wqWCqWwQpWwSpqWC
+w already in set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'p', 'q', 's', 'v', 'w']
+Line #41        1st Half: PttsNjdtPtcmcDTnDdtjjD        2nd Half: MpCCCCmSmqqGqmvMvbCqpC
+m added to set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 's', 'v', 'w']
+Line #42        1st Half: jndRrTtPdgNPPn        2nd Half: LrVhVLHhVJHffV
+r added to set ['B', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #43        1st Half: NJZVqHNNNJNqCdqZZVj   2nd Half: tzCDMtzrtrFhhMFsPCS
+C added to set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #44        1st Half: TbwgwWRdQgfggQgv      2nd Half: MPDSPszhSbSDszFs
+b added to set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #45        1st Half: QpRmWglwTQgGWTvGRvQRdw        2nd Half: njNNqqqBqVlcqVVNncVVHV
+l already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #46        1st Half: gqBFHLFDNCBClHgbLFbllLgg      2nd Half: VSTWJVWWpjvJpSSWJjBjZvjW
+B already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #47        1st Half: mczdshQcsGftdmcwcfhdzQ        2nd Half: VrhJZJTZhTVTDjpWpZvvWT
+h already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #48        1st Half: twGdRtcG      2nd Half: nRgDqFRC
+R already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #49        1st Half: fsPjCjgRpwjPpsGgQwPf  2nd Half: SZcdSZdWVHzSzcdzHRWz
+R already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #50        1st Half: MBLTTBMvbMmvJTLvTDv   2nd Half: czNdZNHdHcJNzNqSZVG
+J already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #51        1st Half: rTlDlbBb      2nd Half: rsjCCGnG
+r already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #52        1st Half: FsmBPtzHdmm   2nd Half: vcvdWpcWCvM
+d already in set ['B', 'C', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #53        1st Half: RMJGjGGJJGLDRNJJnfGRR         2nd Half: SvplTDccrTwSWClvCrwww
+D added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #54        1st Half: nnRqNGJLVLRRZNNZ      2nd Half: zBHMHVFVmzBFbhmb
+V already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #55        1st Half: MmTSpBMBCCM   2nd Half: sbbrVvwwSLb
+S added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 'v', 'w']
+Line #56        1st Half: RffNRFRThtqHhHHqZN    2nd Half: rLVvwQtsGvssdvvsGb
+t added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #57        1st Half: DThHghZfgqhFWRNHhhRWq         2nd Half: MCnMzzznlPnBlgzMpnPCz
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #58        1st Half: GhlMNMdpMZHHhh        2nd Half: RLLjqSjjqvvmSh
+h already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #59        1st Half: PcTJDBDcBnBbTFcDwnPTQ         2nd Half: SLqLrqvWjwWLqRSvsRmWm
+w already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #60        1st Half: PDcDJbQTFBCBcncgQPcDgn        2nd Half: HgVmppHVMddmZglzVHdMmt
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #61        1st Half: BqFJqJGpBVnJqn        2nd Half: jjmwvrNwVPHPrd
+V already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #62        1st Half: ZMbQmhWstZScW         2nd Half: jdswwwHNdzHvj
+s already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #63        1st Half: ZZtQCtgZQWSbMMhmMSWQ  2nd Half: fGfGDBpRJnJqTFFJBgTR
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #64        1st Half: tVcPGGqwgJPqtJtqZZwcZ         2nd Half: ffsfrcNWBnSWWFrfhWBnz
+c added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #65        1st Half: dRMCMQLv      2nd Half: NssBWFFR
+R already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #66        1st Half: pvjjQvmDMpHLd         2nd Half: PPtgPPTssTHsq
+H already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #67        1st Half: WDBlFBbGdmB   2nd Half: rqWjhWcqZCq
+W already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #68        1st Half: RPSRPtncng    2nd Half: wgwzhCwghC
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #69        1st Half: cssVsPpVncQMRsVQpRPnRcf       2nd Half: JfTTmTdDBLbFlDblTDDDLJf
+f already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #70        1st Half: CZgCCzgzsCDZDzbb      2nd Half: BclgvcjcnnjFBqgv
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #71        1st Half: VLGThLWhWdThlWRHVTLTT         2nd Half: jNjjdjrnBNBcrNcqmqqcc
+d already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #72        1st Half: VTRWLhpLWHRMPGRGRplVh         2nd Half: SfttJpZzwstsbDtwbJzZt
+p already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #73        1st Half: fqhZRLhwZwVSLb        2nd Half: CMCJdJCHQGZWdW
+Z added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #74        1st Half: ztvpjtpcvgzppPvjvPl   2nd Half: DQLnMlHDGWnQDLQWDdJ
+l already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #75        1st Half: PpsPzjPzgLrjzBgLggzr  2nd Half: mrVSrTSfSqFVFmVhffFm
+r already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #76        1st Half: qMFDRLNRRJJp  2nd Half: hbhSgStpptbj
+p already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #77        1st Half: rZrPZZNCCCGrlfsCz     2nd Half: BbgstBwtvbtvbvBth
+s already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #78        1st Half: CfVrdndzZGrfzrzdrGddPnNC      2nd Half: FMRDJWRDDnRWDFqFDJJFTJJT
+n added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #79        1st Half: dMDbndBMQWnnbDstnMbMQQw       2nd Half: spFgsFFjRrqCCFrrprqrgjc
+s already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #80        1st Half: SlLzZmHZSTVGSPVmSPlSm         2nd Half: rpFvFjjpgrpgFcvrcFcWG
+G already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #81        1st Half: PHZZTmNVHSWJlHPNLSzPLLH       2nd Half: wDBJtbDbnnnMffDbwtnMndQ
+J already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w']
+Line #82        1st Half: tHBzNCztLBRBtr        2nd Half: jvSjfnjvvzfpjj
+z added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #83        1st Half: gQwWqlnqWqJgJnD       2nd Half: plfflddjdsfdpFf
+l already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #84        1st Half: gcwwmnDccTPWWgJ       2nd Half: bZNNbZHZCRRTrLB
+T added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #85        1st Half: ZhjgtrJNfDN   2nd Half: pqbhqQmqpmb
+h already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #86        1st Half: cFLcwGGHwcGdwF        2nd Half: CQjnnnVcmqmjCp
+c already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #87        1st Half: HvvlzjWHjFW   2nd Half: TggWStDrDZT
+W already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #88        1st Half: GPjjQtPQbjw   2nd Half: Wqrmnsjmnqn
+j already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #89        1st Half: SNGdfLLGdlldZSS       2nd Half: RWznFsNqFRnqsWs
+N added to set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #90        1st Half: DdMpMfZMhfZMpDf       2nd Half: bDQQbGQVgccgcVt
+D already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #91        1st Half: hHGGGTlddWGgpRdcv     2nd Half: wDCDwzgLJzCwzwgwL
+g already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #92        1st Half: MFSbZSnnF     2nd Half: JWwQBNMzw
+M already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #93        1st Half: tSjrSFSfqjqqttPnssqjssb       2nd Half: hGmWGhcmvldcmhHRhGRhTRf
+f already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #94        1st Half: qdBjBTNndbnqn         2nd Half: LmtZmZvvtLvHd
+d already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #95        1st Half: hDJCpfnGhJfDPzGzzCnGP         2nd Half: mpZZVLZvHttZHQLHgZLHt
+p already in set ['B', 'C', 'D', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #96        1st Half: JDrfCDJhGMhFhPzMrCCnrGS       2nd Half: wswswFsblTqRlRwjcjRsqBT
+F added to set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #97        1st Half: tJPRSZCSJJCnmvvv      2nd Half: QMrpqLVwqLqMcCCM
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #98        1st Half: hhGGGfsdfTGlfggj      2nd Half: MLVVFsMVwMMbqbLF
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #99        1st Half: hdTGGhGhdhfhhwlgNfdh  2nd Half: ZnZtHHRNtZHnnZmHHzmn
+N already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #100       1st Half: HlgRZglZDWZg  2nd Half: fVbdznHddTvV
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #101       1st Half: MhShhQMSFShFPPQplMPmwppw      2nd Half: bzdtVbFtfvfbzVbvbTntzbVT
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #102       1st Half: lMwpmJLLLNGw  2nd Half: BrcZCjrGCGrD
+G already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #103       1st Half: qjjWRLjNjtGRRW        2nd Half: TCghNwsgwcbwmC
+N already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #104       1st Half: HPMBpVGMPMvvVBP       2nd Half: swmhTbCwgmsVThT
+V already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #105       1st Half: vDSMSvflBlHpvMMfSSpM  2nd Half: FWZdtZWdGWGddqfFtRqQ
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #106       1st Half: ZmnGQfnZgdmRGQGvgnnmH         2nd Half: CbbchhpMLrpcbLpdLpzbz
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #107       1st Half: NBFPBWFsSVNJlFq       2nd Half: LDLwcwrPLzzCwhp
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #108       1st Half: qlWJqqWFJJjNqJWsFVsVqq        2nd Half: RCggtmvvjQZgQnZQmvmHRt
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #109       1st Half: RdCsJbdsVJtRv         2nd Half: dzBzrBcjzMTqT
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #110       1st Half: wNSNnnHhnwhH  2nd Half: fBHqHjBDJMJr
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #111       1st Half: GnSPLwlFwwLWSwpNWLSNp         2nd Half: VZtvPsVJsmRCmtgsvsRsv
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #112       1st Half: GPMwMMPCBPwBGsCGGWqBss        2nd Half: lQhVQFccphvhWpmcFhVLmV
+W already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #113       1st Half: rbNnHLLHfH    2nd Half: fZFfQQQZml
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #114       1st Half: DzSDNtrztbg   2nd Half: CMMBLLCsBts
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #115       1st Half: rTtrVbrrhbbGGhbbbb    2nd Half: RqccdBcdBcvRvBSRRV
+V already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #116       1st Half: fDqQDqLFQgQgZFMlF     2nd Half: NRgvCNvRRvHvRBHHR
+g already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #117       1st Half: mfPqmFsqq     2nd Half: sbJJtGtbt
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #118       1st Half: vNHvgsSGSFDHvspvtSG   2nd Half: wJwJNJrllhwhcnwJlwm
+N already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #119       1st Half: dqWdWfQdqQVW  2nd Half: wnfMnlcfwzMs
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #120       1st Half: VqQQqBRTqsBQWL        2nd Half: ppZLpFSHZbvvDt
+L added to set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Line #121       1st Half: gdcldHQlQndnHMz       2nd Half: CjvCFrzjSFtbLtv
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #122       1st Half: NJGmZZJZGTDsWWJNmDVms         2nd Half: CrSvfPrvTtSPbFFCFFvCT
+T already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #123       1st Half: BDDsmJZVBJwBRsGGDmZNBG        2nd Half: qMdnghhcwgbngpqqMgnpgc
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #124       1st Half: VhhvVwmvmwTPCwPwm     2nd Half: DRgDCsgWSnfRMSWSM
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #125       1st Half: ptHZZtlZzqbZttHbzrFq  2nd Half: nDSMShMgSRRMngDWgrGh
+r already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #126       1st Half: hBttqBhBzlFhtH        2nd Half: vTJQJTcvBQJPPv
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #127       1st Half: FjfzfGjsj     2nd Half: BfQfMLBNg
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #128       1st Half: VlrppVwrpVSdScwT      2nd Half: jVnCCQLQNCMBhWgV
+V already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #129       1st Half: jvtSrSjjtSZp  2nd Half: qtHPDPJqRzGR
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #130       1st Half: ZSmbSDswfC    2nd Half: DDHBFFvWHJ
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #131       1st Half: jcjcVjltntQMltnVrdNnNjd       2nd Half: QgFzWHqzBWGWQvzHwgqqJGz
+Q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #132       1st Half: nccLllwwhL    2nd Half: CCSLTmmRTP
+L already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #133       1st Half: HBSnnJSfHvBfNWMNrvnMr         2nd Half: ZlblFbsbHwsPFVHTsHFls
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #134       1st Half: VLmDLhRg      2nd Half: RbZFRwjZ
+R already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #135       1st Half: zQDmCLLDDLGttGGgtL    2nd Half: vvVSfqJBSVftSnrJnN
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #136       1st Half: CgGhbgVMNgVVbjrrt     2nd Half: cfTDTfvTscrTvSSss
+r already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #137       1st Half: qqFzFBzsPZHmddmsm     2nd Half: vWSnHJnncDfWnDJvv
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #138       1st Half: ZwdPqdqpdPlPwdRlsdBqB         2nd Half: MjNQjGVgbQgQhGVCCtgbR
+R already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #139       1st Half: CGFTTMLGPgmPfGfCwTPSSF        2nd Half: NQDLNQnscQNccWdQLqvqds
+L already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #140       1st Half: pbJlzhZRHtjrbrbjHHrplR        2nd Half: WVNsNvddZNWDQVVcnQVscs
+Z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #141       1st Half: pzJtlJlBhJJHJjHh      2nd Half: fPfTTFMDmMPBMSgm
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #142       1st Half: gzCBPDDzgvLvgPLg      2nd Half: NThPlVZccJTmrZNV
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #143       1st Half: sndSnpsdMSnRMRpjS     2nd Half: hhNJZJhJjrVcTljTZ
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #144       1st Half: SRRsdnGwRSpptnfMSSpdQtfd      2nd Half: WqvbwFgbDJJzCzqqWqWbLWWz
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #145       1st Half: BDnsPDlmmwcnCLLLwP    2nd Half: tFTtTtFRqjRrrSVFqn
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #146       1st Half: dfhhzMGzWJhpMWhHWggTHJ        2nd Half: VFVSSqbqqjdRRtvqqvFrtF
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #147       1st Half: JMGfHffhQhQ   2nd Half: TNcTTBLCQmm
+Q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #148       1st Half: bfZBvvRRRzFfFFLRvFzZ  2nd Half: CcQlScchLlGNhSQGGVQh
+L already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #149       1st Half: mwJqTbsHmjbT  2nd Half: NcNhQGGJGcVS
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #150       1st Half: mPTgtsnPjwHHmmm       2nd Half: bbRDgfpdgBpzvZD
+g already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #151       1st Half: lSnRStHtTZdjrHjn      2nd Half: qJglbqgchhDCPCPc
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #152       1st Half: swFBzvBNLpBBsvszv     2nd Half: DJhCzgDDCgbbJQzDq
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #153       1st Half: VswvBFmvp     2nd Half: SrShmRRMn
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #154       1st Half: vWBBSrWnZfC   2nd Half: WVchwhbcjVN
+W already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #155       1st Half: RdHQQpRPJZLT  2nd Half: tJgNcNGgbhGh
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #156       1st Half: zpzDzTdqQRqRzzlR      2nd Half: DsBBnBfMmCCSZDBS
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #157       1st Half: ZtGSZVpPDtV   2nd Half: bQjbwBDzbbL
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #158       1st Half: WcFvTFnTMnnMcnh       2nd Half: mQhmhBbBQzCQjVb
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #159       1st Half: RRWsgvgn      2nd Half: fqgpGVNg
+g already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #160       1st Half: WJTrJJCzLqCqBTWLsCCqz         2nd Half: mPPQrjwHQQGpwGHHmRPVw
+r already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #161       1st Half: bMvnDFnFSbSl  2nd Half: GgnpmGQVpRjV
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #162       1st Half: DZSdFZdQZZcl  2nd Half: sscWqWLhcBhs
+c already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #163       1st Half: PzLlRRNjjRQzvPNQsvddl         2nd Half: ZfchhWWZJHSlhChDhHhcc
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #164       1st Half: MMfngVwtpVMqVrwrMBgmtG        2nd Half: qCHDWqJSDJWhHHSSSJJHHD
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #165       1st Half: tBgnMTMMrgVmrBwMmGfn  2nd Half: NjjsdLbbbTQvjNTNsQLz
+T already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #166       1st Half: ZZBZRmPmgpgZG         2nd Half: LWLQWslSWmLQL
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #167       1st Half: DnHJJjzqrJffrDnHzJjnMb        2nd Half: QWSltttSbStvFQSstSvCLF
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #168       1st Half: MzJDnfzHwHlljJJnqrMjf         2nd Half: PGdBRpRBGBRhwVdGGRTBG
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #169       1st Half: CnZCpMFNnFvvNdpH      2nd Half: VrWghgtFVFlLRWhh
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #170       1st Half: cBsSBsGcjGcJZD        2nd Half: rggtgtVDVrgWmh
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #171       1st Half: wTBJbcbzffJbZccjSbSjBfcc      2nd Half: NCNMPqqPPdvnHvTvnMTNdnvQ
+T already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #172       1st Half: vMgPmvQmWD    2nd Half: MpGpjBbMMH
+M already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #173       1st Half: CcVJNcdNgdhtCV        2nd Half: pjBBRppfRTGbph
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #174       1st Half: sFsgNlcdFlJFFwFstNJc  2nd Half: vzDWZqqWvqLqzLzmzDwQ
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #175       1st Half: LLVLVsPPVVPCLLrjC     2nd Half: NNNgmRdJNdCdfMJpB
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #176       1st Half: DTZZHTWbwwpWbSWD      2nd Half: BmJMSFFNmgRRBggf
+S already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #177       1st Half: ZvzDWqDnDwnZTpzZTzWvp         2nd Half: hPtqhQsltVtPhPhsQrPch
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #178       1st Half: zDgWmDgrpCLmwgWT      2nd Half: rjlJBQRJjbFGrcbQ
+r already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #179       1st Half: hSMvqvHtqsdVH         2nd Half: lJDcclMBjRMQJ
+M already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #180       1st Half: sqvHsSstSdqhVVvZdqVHZD        2nd Half: gwWpZZLLmfmmwfNfWCgmLg
+Z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #181       1st Half: SQWcTnWVWbZWWBcVPnZVbn        2nd Half: rNrMFMdqFNqdMqqFhrDQvq
+Q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #182       1st Half: plGLlLGpJLhCG         2nd Half: rRqGDDDrdzNGr
+G already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #183       1st Half: wgflHCCCJmpLjCLHtjjgLCt       2nd Half: BZswnsTBPVPVsBcPTbZBBSh
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #184       1st Half: vvlMQvvdjdG   2nd Half: tVCTJlVJVfJ
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #185       1st Half: FLrFqwwZgNrFWqZwgqrZBLW       2nd Half: cBTtppztVbfRJztJbztfztT
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #186       1st Half: WNmmFJwwrFFnNmDgm     2nd Half: jdGQMdHMsPvPjsHDG
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #187       1st Half: hGmZHdSRdMmhMZSH      2nd Half: lvbTvRbRlVtCTlCR
+R already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #188       1st Half: znnfzgPPDpPfDcgn      2nd Half: ZTJvJNCZbJVCcNJV
+c already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #189       1st Half: nrLLfQznprrppgprWrnPzQzL      2nd Half: SjGsZmHmhBdsqWhdhBMWhdqd
+W already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #190       1st Half: zhtNFSFwRF    2nd Half: LCsNrNNBdl
+N already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #191       1st Half: BmQBPjDpB     2nd Half: TDgHllgHc
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #192       1st Half: npBjjpQpjGbMnmPpjPQWp         2nd Half: wZhtbzJfhwvwtSwhhFFbh
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #193       1st Half: PZcZbcPlbSprcQbb      2nd Half: dCwWRSttgtgvWfjC
+S already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #194       1st Half: TGVLVHHmTVHGDTDnGDh   2nd Half: gWjwvCjwwwRLLgBjWBR
+L already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #195       1st Half: CHTGsnHVV     2nd Half: cJPPcNsNJ
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #196       1st Half: tTqGSSGPGfVfTpqGTbbcV         2nd Half: WJLdjtvdzjJthCjlhdlzQ
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #197       1st Half: wwFBZMmZBmgn  2nd Half: jzlCWBBjBLjv
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #198       1st Half: rNMsDZnMM     2nd Half: WSfDcDWPR
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #199       1st Half: vLzbsczhLmm   2nd Half: nlNvrNQHfWd
+v already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #200       1st Half: SMSFqMwjFFDVSZwVTMDjS         2nd Half: QlQfNlRrQRWdQfRrWrqHN
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #201       1st Half: CPTwGZDTFCPSjFTSPSF   2nd Half: bPgpLscPczmcBLbfgpb
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #202       1st Half: QnQnpFjsbFcS  2nd Half: SvCMNvqVSrqq
+S already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #203       1st Half: WfzfTfzzPgHTfwfWtgRL  2nd Half: MJDvjMmMVtvDJJCVtqmC
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #204       1st Half: wfWRgPzdgRTWBBWHPBHHBRLT      2nd Half: lcZdhjnbZQcGZGpsnphjshbG
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #205       1st Half: pHzPTsBHzqq   2nd Half: tQCZZshlWjf
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #206       1st Half: DFFbnvJMDM    2nd Half: ljjtQjfCbQ
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #207       1st Half: dgJFDGwgmGlMSggGdgdDDlv       2nd Half: LNTzpBzLzzwpTBLzqPBczLT
+w already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #208       1st Half: jccNVNdwnclRwlbwlVjdc         2nd Half: pJSpGpSllBHgGHZpJpppf
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #209       1st Half: mDThTmsnDs    2nd Half: SBpZfmmgBf
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #210       1st Half: MrFrhCshqvWvnWzTW     2nd Half: QtzVbRRQwQRNQjdwQ
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #211       1st Half: tBnLJfnQtzRCff        2nd Half: mNjSRjZjNZSRrP
+R already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #212       1st Half: dVdMVMvMgh    2nd Half: HzPhzZhHND
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #213       1st Half: dGWGgplWGVMdMM        2nd Half: zCTsbLtLTCLpnT
+p already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #214       1st Half: ftNfNDdSB     2nd Half: drMTdrjMM
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #215       1st Half: cHgHGHzGgJh   2nd Half: rPLqSrrJTqp
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #216       1st Half: mVFnQnhQGHFznFh       2nd Half: BBbSDRBlSVBBRfS
+V already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #217       1st Half: VqqPBPcPbQ    2nd Half: HgfrrpcSDR
+c already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #218       1st Half: tpMnsztnGnthhzTtGTGTzzW       2nd Half: gJNDlMfSRlRDgRNRrDRHfrg
+M already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #219       1st Half: zWtTFWzTwphChnCzFhzWZGG       2nd Half: vBvLqmVmbVQqjqjmBPqBLCP
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #220       1st Half: ZZgZnhrmwmnmgmvrghPm  2nd Half: gTGcTSGSMSldgcCQCSqW
+g already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #221       1st Half: LzFLDBfHzH    2nd Half: CCqCFGcSlS
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #222       1st Half: HBjRJDLpHp    2nd Half: JsJVJqsnhP
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #223       1st Half: PqrqmvmrwzznnP        2nd Half: DpjVpDLfDtPGLt
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #224       1st Half: sdRhRWFhShhFccZZsSsNbsNc      2nd Half: jCtLpMVWCjptGCfMftBDLMtG
+W already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #225       1st Half: bVZcsdlhdNSbZRSshRcbb         2nd Half: qlmnqHmmwzrJlzzgQlmvz
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #226       1st Half: pnrcNGqmrGqnchGh      2nd Half: qdWdTlldtQtlMsTq
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #227       1st Half: DvSLgzLSMfbgggCLCwbSSLL       2nd Half: tfsWTQTsWllssdltRQQtttQ
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #228       1st Half: bCCzzPPgDPjPvwSzDbw   2nd Half: pVNnpnjjrhpnVZGMhcp
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #229       1st Half: jWbGtDdqCqZjd         2nd Half: HwcwZMBVQmcvZ
+Z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #230       1st Half: PnTflPRRrlgLTTRlTzFPP         2nd Half: QQBcNvHBncQpHMwHNBMwm
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #231       1st Half: fFFRrFLJgRcJglgRzTzrL         2nd Half: qWCjtqGGDsjCjdbGdqdhJ
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #232       1st Half: GwbvGqMsDMbpMG        2nd Half: zzgRzgpBLjhcch
+p already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #233       1st Half: WFTFNZTZSC    2nd Half: cBggBFcrss
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #234       1st Half: CJWWlsWlC     2nd Half: tqGJmMGwJ
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #235       1st Half: CGCVhprTrthCZTCNtVGtZDZN      2nd Half: dlPPdPwmmvrcbmPmdQRvQWmw
+r already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #236       1st Half: LfzLzssfgHjLFjFLfjMfHsLH      2nd Half: mPwdcQWQQlscwlPdQclbPvlw
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #237       1st Half: LBFHjgMzqqjfJqLMzffHzqgH      2nd Half: hhJDZSGVDVChCDDpDNNpNtDW
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #238       1st Half: TbzVlmNTVVtnT         2nd Half: SWNwDDrpGcwdp
+N already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #239       1st Half: fQQMFbhCfLgfQCs       2nd Half: dDcHpsWpdSDsGrr
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #240       1st Half: ghvPLQMfZhjjvPLhbQFQ  2nd Half: BZqJlTnnnVzRmtRzlmBl
+Z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #241       1st Half: JCLLLwVDwCQsNwwJHm    2nd Half: frMZpMfMMrfPQSMZpS
+Q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #242       1st Half: WlFlzFRnznthqWR       2nd Half: GbMpVMbbMPtMjMj
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #243       1st Half: vTnvzqllhdhq  2nd Half: TwVBLcJHmmmC
+T already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #244       1st Half: tczhtcJJJbtclWrtJBWJBtJt      2nd Half: pqPRSPfpBRgqRfPmpRqddSmM
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #245       1st Half: HCvnsQLNCQwLnDsNHLwQ  2nd Half: fPSSpPSMfnPddRMmmGpp
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #246       1st Half: wDQwjNwQNHjTHNFDCNmCFN        2nd Half: WtWzhJbWbVrhtWccVFlrlV
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #247       1st Half: sPRpCndBCGpCGH        2nd Half: ttSdvTbWvgdjST
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #248       1st Half: wcmDwqcwmGD   2nd Half: TNvjWtrbSrc
+c already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #249       1st Half: lwlVLVGqZGlLzV        2nd Half: HHBBBCHBHRPCCz
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #250       1st Half: wdmhffzzph    2nd Half: rjqtzRbrrq
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #251       1st Half: CRgGTGTFssZsllHNBlHsFJR       2nd Half: jcrtjtPDPcbCtDrLcrjctrc
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #252       1st Half: NHMRHTlFgGN   2nd Half: wpQvMpwVvww
+M already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #253       1st Half: MPLJNPqm      2nd Half: FWmDFjGS
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #254       1st Half: nbsZtwbZlbZ   2nd Half: lGlFDDMpVlF
+l already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #255       1st Half: hvsbbbZtvfhhRZbZsfzMbMZb      2nd Half: qcrqdrNrNqLgqhrLhJgddLNL
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #256       1st Half: SnMLpRDGlZSZNlnMZp    2nd Half: CwjLwzFrHBWCFWBBBr
+L already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #257       1st Half: TttvvtbtVcsJtRsvtQd   2nd Half: zWJrBjCCHBWzrFFhCjC
+J already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #258       1st Half: VmvsQdgPbdgVTvgP      2nd Half: MSDfPPZfDRRNDNMl
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #259       1st Half: LjngLCNhDNFNhFDh      2nd Half: cMqrqqZMcSZnHTMc
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #260       1st Half: PPJwtGlfszGwWtzwQJBPGslJ      2nd Half: SqRTHZvgcRRZrMSTMMTtRTTc
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #261       1st Half: llPPJWzQPmW   2nd Half: mVNgDbLFCLb
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #262       1st Half: NPFlLNBLprpdmmdPBmJnLrd       2nd Half: jMVDjMSdqgggQTVDqWMdqVs
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #263       1st Half: vZTbTZRwvvGRTR        2nd Half: jWDqSqqQgDGsGq
+G already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #264       1st Half: vzZcfRRZbwbRHRtwZCCh  2nd Half: BmFNtJBPLBlBJJLpmFTP
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #265       1st Half: pmvZmmTjQ     2nd Half: FfnvPPHHv
+v already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #266       1st Half: SczhzfbsLNhfccN       2nd Half: FsWFRPrDnPDnVnW
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #267       1st Half: BtBbSdtzLBwSLw        2nd Half: BmTZpQMpZmZmfZ
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #268       1st Half: PqPQZqtQQLDq  2nd Half: rnqdjqdVwVbz
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #269       1st Half: MGRGWMgJHGlRRHfS      2nd Half: wfzCfCVVQzbwjrjn
+f already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #270       1st Half: JsmHmSJJmSMWMlTW      2nd Half: QBFhLTvhDFZhBQDZ
+T already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #271       1st Half: sbgbbFGTTFNMbMNF      2nd Half: WrjsrvWzHWPzPPpf
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #272       1st Half: CVmhVqSqCZmJQh        2nd Half: PpHzvZvtzWHjHP
+Z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #273       1st Half: CnmdCQCdn     2nd Half: FTnNgRpwT
+n already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #274       1st Half: blZjhbZWVttjWjWLCLVVZCZ       2nd Half: QjMDQHsBsBQfMDQwjHDwBHH
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #275       1st Half: NdcJdFcJqgpJpN        2nd Half: nDQLMFsBnLSnnS
+F already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #276       1st Half: LJrJdJrzvdrrpcNdNcr   2nd Half: VlZWbZzZVRhRtVlPttC
+z already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #277       1st Half: mhRtNNtrtBQQrtrBBmQl  2nd Half: ZwHHqHZSVHHGshSVDwhS
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #278       1st Half: gpdPMTcsLscMccTpbL    2nd Half: dHSfGfqwHZDHHqZqHZ
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #279       1st Half: zbzvMpPLppLzLMjT      2nd Half: BQRmssjBWRQjlmrN
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #280       1st Half: VzzvggdvF     2nd Half: dmffwmGpd
+d already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #281       1st Half: HNbnJTRT      2nd Half: mCwwrRpR
+R already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #282       1st Half: LlTnWhLlhLJmLmt       2nd Half: ZtPcPcVFFPSZgZt
+t already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #283       1st Half: jHcZjHlHz     2nd Half: LHHnSNSfL
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #284       1st Half: pQWRrwPwrRWBWBPWBRrpdPm       2nd Half: zhShsSFFNShLhnnvPtvSNNs
+P already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #285       1st Half: dzbmwVwbbBm   2nd Half: GcqDbgllJCC
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #286       1st Half: ndnvvzJDHvzHHHjnHj    2nd Half: CCSDLgbSFwNFVbFVTL
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #287       1st Half: mcQmQtpWTQGlmpTtMtqtpqT       2nd Half: FsLcVSSscNCwLNLbwbbLNwV
+c already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #288       1st Half: pRZTQlhmtGWqqW        2nd Half: nPHdnhjHrBjPPd
+h already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #289       1st Half: TtLpNHspTcLNNsLpthhsfmtj      2nd Half: RSRlWWbzSwSRGwbWlWSSvlmS
+m already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #290       1st Half: qBJVnZZdJVZrZnd       2nd Half: bPbWwRzSMVGbbVS
+V already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #291       1st Half: QCdnBFBndBQDnrqrnqq   2nd Half: NhpNNLpHthsThjGCTLL
+C already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #292       1st Half: phCgcdrFbPLpgrbF      2nd Half: HqQqzzlbGWGqQbHW
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #293       1st Half: SFTvTnVVMRnNTNfS      2nd Half: HjHQMDlHwDWlQwDz
+M already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #294       1st Half: TZmTvsFNmvTt  2nd Half: sggpdJLBBsCs
+s already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #295       1st Half: PBBWQjvsPsHVs         2nd Half: NMcSzNDjcGggS
+j already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #296       1st Half: ZtrTfTrrrrdCqpdt      2nd Half: LNnMLLqNcgMzgHLq
+q already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #297       1st Half: CZFmdTrJtbZr  2nd Half: BvWHVVvHbPQW
+b already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #298       1st Half: djcrrBljMrTdCTcdCClClMl       2nd Half: qRvtNqqSRwFbNbwvNBNpSzq
+B already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #299       1st Half: QhPmGJnPVGVH  2nd Half: HNzSqpzFwztF
+H already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z'
+Line #300       1st Half: nhgPFmsnLPGLhPDJhG    2nd Half: TcDjMfrMMjMZWfjfWj
+D already in set ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+{'z', 'P', 'l', 'g', 'w', 'd', 'W', 'Z', 'j', 'L', 'D', 'v', 'r', 'F', 't', 'B', 'Q', 'S', 'h', 'J', 'M', 'm', 'n', 'T', 'H', 'c', 'f', 'p', 'N', 'V', 'R', 'q', 's', 'b', 'C', 'G'}
+dict_keys(['f', 'h', 'H', 'G', 'g', 'V', 'q', 'v', 'J', 'd', 'M', 'w', 'j', 'P', 'R', 'W', 'l', 'Q', 's', 'p', 'B', 'm', 'r', 'C', 'b', 'D', 'S', 't', 'c', 'Z', 'n', 'z', 'T', 'N', 'F', 'L'])     
+['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+['B', 'C', 'D', 'F', 'G', 'H', 'J', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Z', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'z']
+Answer: 948
+Custom count: 948
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+{'f': 13, 'h': 18, 'H': 12, 'G': 9, 'g': 19, 'V': 16, 'q': 13, 'v': 4, 'J': 13, 'd': 18, 'M': 9, 'w': 9, 'j': 12, 'P': 15, 'R': 9, 'W': 10, 'l': 15, 'Q': 7, 's': 15, 'p': 7, 'B': 17, 'm': 9, 'r': 
+11, 'C': 10, 'b': 10, 'D': 12, 'S': 4, 't': 15, 'c': 11, 'Z': 8, 'n': 12, 'z': 10, 'T': 6, 'N': 6, 'F': 11, 'L': 7}

@@ -1,5 +1,8 @@
-file = open("day_03_input.txt", "r")
+file = open("input.txt", "r")
 data = file.read().strip().split("\n")
+file.close()
+
+file_writer = open("day03_splits.txt", "w")
 
 rucksacks = []
 priority_values = dict()
@@ -21,23 +24,42 @@ type_set = set()
 
 line_no = 1
 
+try_n = []
+
 same_count_list = []
 
 match_dict = dict()
+match_dict_by_in = dict()
 
 for _sack in rucksacks:
+    _c = '??'
+    file_writer.write(_sack[1] + "\n")
+
     
+    line_type_set = set()
+
     _same_count_set = set()
     for _i in _sack[0]:
         if _i in _sack[1]:
             _c = _i
-            #break
+            if _i in match_dict_by_in.keys():
+                match_dict_by_in[_i] += 1
+            else:
+                match_dict_by_in[_i] = 1            
             _same_count_set.add(_i)
-            
+            line_type_set.add(_i)
+            #break
+
+    try_n.append(list(line_type_set)[0])
+
     for _x in _sack[0]:
         for _y in _sack[1]:
-            if _x == _y:
-                match_dict[_x] = 1
+            if ord(_x) == ord(_y):
+                if _x in match_dict.keys():
+                    match_dict[_x] += 1
+                else:
+                    match_dict[_x] = 1
+                #break
 
     same_count_list.append(len(_same_count_set))
 
@@ -48,11 +70,15 @@ for _sack in rucksacks:
 
     print(f"1st Half: {_sack[0]} \t2nd Half: {_sack[1]}")
 
+    _temp_print_list = list(type_set)
+    _temp_print_list.sort()
+
     if len(type_set) == prev_len:
-        print(f"{_c} already in set.")
+        print(f"{_c} already in set {_temp_print_list}")
     else:
-        print(f"{_c} added to set")
+        print(f"{_c} added to set {_temp_print_list}")
     #print(f"Shared char: {_c}")
+    print()
 
 
 
@@ -86,6 +112,23 @@ sum2 = 0
 for _t in type_set:
     sum2 += priority_values[_t]
 
+
+sum_n = 0
+for _j in try_n:   
+    char_priority = 0
+    if _j.isupper():
+        char_priority = ord(_j) - 38
+    else:
+        char_priority = ord(_j) - 96
+
+    sum_n += char_priority
+
+
 print(f"Custom count: {sum2}")
 print(same_count_list)
-file.close()
+
+print(match_dict_by_in)
+
+print(f"Try N: {sum_n}")
+
+file_writer.close()
