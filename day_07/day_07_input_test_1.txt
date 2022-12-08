@@ -1,0 +1,32 @@
+$ cd /
+$ ls
+dir a
+dir bnl
+1 b.txt
+1 c.dat
+dir d
+$ cd a
+$ ls
+dir e
+1 f
+1 g
+1 h.lst
+$ cd e
+$ ls
+1 i
+$ cd ..
+$ cd ..
+$ cd d
+$ ls
+1 j
+1 d.log
+1 d.ext
+1 k
+$ cd ..
+$ cd bnl
+$ ls
+1 t.txt
+dir lmw
+$ cd lmw
+$ ls
+1 z.bat
