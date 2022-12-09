@@ -48,6 +48,14 @@ class Tree:
 
         if type == "dir":
             self.dirs_list.append(newNode)
+        elif type == "file":
+            _update_dir = parent
+
+            while _update_dir.name != '/':
+                _update_dir.size += size
+                _update_dir = _update_dir.parent
+            
+            self.root.size += size
 
     # def getNode(self, name):
     #     if name == "/":
@@ -83,6 +91,8 @@ class Tree:
             
     #         return list(answer)[0]
 
+
+    # UNNECESSARY - directory sizes are all updated as files are added
     def populateDirSizes(self):
         for _c in self.root.children:
             self.root.size += self.dirSizeHelper(_c)
@@ -103,6 +113,6 @@ class Tree:
 
             curr_node.size = curr_size
 
-            print(f"Found size {curr_size} for node {curr_node.name}.")
+            #print(f"Found size {curr_size} for node {curr_node.name}.")
 
             return curr_size
