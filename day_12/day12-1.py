@@ -21,13 +21,12 @@ def findNeighbors(curr_row, curr_col, puzz_map, _visited):
 
     return neighbor_locs
 
+WIDTH = 143
+HEIGHT = 41
 
 file = open("day_12_input.txt", "r")
 data = file.read().strip().split("\n")
 file.close()
-
-WIDTH = 143
-HEIGHT = 41
 
 start_loc = (20,0)
 end_loc = (20,121)
@@ -42,10 +41,15 @@ for _r in range(HEIGHT):
 puzzle_map = []
 distance_values = [ [float("inf")] * WIDTH for _ in range(HEIGHT)]
 distance_values[start_loc[0]][start_loc[1]] = 0
+neighbor_counts = [ ['X'] * WIDTH for _ in range(HEIGHT)]
+
+original_input = []
 
 for line in data:
     _next_line = []
+    _orig_next_line = []
     for _c in line:
+        _orig_next_line.append(_c)
         if _c == 'S':
             _next_line.append(ord('a'))
         elif _c == 'E':
@@ -53,6 +57,7 @@ for line in data:
         else:
             _next_line.append(ord(_c))
     
+    original_input.append(_orig_next_line)
     puzzle_map.append(_next_line)
 
 # kick start by exploring from start node
@@ -70,6 +75,7 @@ while end_loc not in visited:
                 curr_node = (_row, _col)
 
     curr_node_neighbors = findNeighbors(curr_node[0], curr_node[1], puzzle_map, visited)
+    neighbor_counts[curr_node[0]][curr_node[1]] = len(curr_node_neighbors)
 
     for _neighbors in curr_node_neighbors:
         if distance_values[curr_node[0]][curr_node[1]] + 1 < distance_values[_neighbors[0]][_neighbors[1]]:
@@ -85,3 +91,24 @@ while end_loc not in visited:
 
 #print(findNeighbors(0,2,puzzle_map, visited))
 print(f"Value at end = {distance_values[end_loc[0]][end_loc[1]]}")
+
+neighbor_ct_file = open("neighbors_found.txt", "w")
+
+for _row in neighbor_counts:
+    for _ct in _row:
+        neighbor_ct_file.write(str(_ct))
+    neighbor_ct_file.write('\n')
+
+neighbor_ct_file.close()
+
+visited_file = open("visited_found.txt", "w")
+
+for _row_idx in range(HEIGHT):
+    for _col_idx in range(WIDTH):
+        if neighbor_counts[_row_idx][_col_idx] != 'X':
+            visited_file.write(original_input[_row_idx][_col_idx])
+        else:
+            visited_file.write('X')
+    visited_file.write('\n')
+
+visited_file.close()
