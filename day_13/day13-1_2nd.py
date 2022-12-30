@@ -44,8 +44,8 @@ class PacketPair:
     packet_2 = []
 
     def __init__(self, _id) -> None:
-        packet_1 = []
-        packet_2 = []
+        self.packet_1 = []
+        self.packet_2 = []
         self.id = _id
 
     def isPacketDone(self, _pkt_id, _idx, _helper_stack):
@@ -136,6 +136,6 @@ packet_pair_list.append(_next_pair)
 
 for _p in packet_pair_list:
     print(f"=========== Pair {_p.id} =========== {_p}")
-    print(f"Pair {_p.id} right order is {_p.comparePackets()}")
+    #print(f"Pair {_p.id} right order is {_p.comparePackets()}")
     
     print("*"*100)

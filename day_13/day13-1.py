@@ -19,115 +19,89 @@ class PacketPair:
         else:
             return False
     
-    def comparePackets(self):
-        right_order = True
-        has_more_items = True
+    def isError(self):
+        foundFaultyOrdering = False
 
-        inspection_idx = 0
+        item_1 = self.packet_1.copy()
+        item_2 = self.packet_2.copy()
 
-        packet_one_stack = []
-        packet_two_stack = []
+        item_1_stack = []
+        item_2_stack = []
 
-        while(has_more_items):
-            print(f"P1[{inspection_idx}], P2[{inspection_idx}]", end='')
+        while not foundFaultyOrdering and (len(item_1) + len(item_1_stack) + len(item_2) + len(item_2_stack) != 0):
+            #print(f"Stack One: {item_1_stack},\tStack Two: {item_2_stack}")
 
-            pkt_one_done = self.isPacketDone(1, inspection_idx, packet_one_stack)
-            pkt_two_done = self.isPacketDone(2, inspection_idx, packet_two_stack)
-
-            if pkt_one_done or pkt_two_done:
-                if pkt_two_done and not pkt_one_done:
-                    return False
-                else:
-                    return True
-            else:  # guaranteed at least one item in their stack or list
-                _next_item_1 = []
-                _next_item_2 = []
-
-                working_off_stack_one = False
-                working_off_stack_two = False
-
-                # if len(packet_one_stack) == 0:
-                #     _next_item_1 = self.packet_1[inspection_idx]
-                #     inspection_idx += 1
-                # else:
-                #     _next_item_1 = packet_one_stack.pop()
-                #     working_off_stack_one = True
-
-                # if len(packet_two_stack) == 0:
-                #     _next_item_2 = self.packet_2[inspection_idx]
-                #     inspection_idx += 1
-                # else:
-                #     _next_item_2 = packet_two_stack.pop()
-                #     working_off_stack_two = True
-
-                if len(packet_one_stack) > 0 or len(packet_two_stack) > 0:
-                    _next_item_1 = packet_one_stack.pop()
-                    _next_item_2 = packet_two_stack.pop()
-                    
-
-                print(f"\tComparing Items: {_next_item_1} and {_next_item_2}")
-
+            # first check if there are any nested elements to compare
+            if len(item_1_stack) != 0 or len(item_2_stack) != 0:
                 
-                if type(_next_item_1) == int and type(_next_item_2) == int:
-                    if _next_item_1 > _next_item_2:
-                        return False
-                elif type(_next_item_1) == list and type(_next_item_2) == list:
-                    print(f"Both lists {_next_item_1} and {_next_item_2}")
-                    print(f"Stacks are {packet_one_stack} && {packet_two_stack}")
-                    if len(_next_item_1) == 0 or len(_next_item_2) == 0:
-                        if len(_next_item_1) > len(_next_item_2):
-                            return False
-                        else:
-                            inspection_idx += 1
+                # if left side runs out of items first, it's in the correct order
+                if len(item_2_stack) == 0:
+                    foundFaultyOrdering = True
+                elif len(item_1_stack) == 0:
+                    item_2_stack.pop()
+                else:
+                    if type(item_1_stack[-1]) == int and type(item_2_stack[-1]) == int:
+                        if item_1_stack.pop() > item_2_stack.pop():
+                            foundFaultyOrdering = True
+                    elif type(item_1_stack[-1]) == list and type(item_2_stack[-1]) == list:
+                        _list_1 = item_1_stack.pop()
+                        _list_2 = item_2_stack.pop()
 
-                            packet_one_stack = []
-                            packet_two_stack = []
-                            print("KEEEEEPPPPPP GOING????")
-                    else: 
-                        # BOTH items are lists with AT LEAST ONE ITEM
-                        # BUT we don't know if the items are from the base list or stack
-                        # so let's throw those items on the stack and compare as usual
-                        
-                        print("Adding back to stacks")
+                        _list_1.reverse()
+                        _list_2.reverse()
 
-                        if working_off_stack_one:
-                            packet_one_stack.append(_next_item_1)
+                        for _x in _list_1:
+                            item_1_stack.append(_x)
 
-                        packet_one_stack.append(_next_item_1[0])
-                        
-                        if working_off_stack_two:
-                            packet_two_stack.append(_next_item_2)
-
-                        packet_two_stack.append(_next_item_2[0])
-
-                        print(f"Appended stacks are {packet_one_stack} && {packet_two_stack}")
-
-
-                else:  # mix of list and int
-                    if type(_next_item_1) == list:
-                        print(f"First item list, but not second: {_next_item_1}, {_next_item_2}")
-                        # Need to try again, so need to figure out where to rewind packet 1, stack or index
-                        if len(packet_one_stack) == 0:
-                            inspection_idx -= 1
-                        else:
-                            packet_one_stack.append(_next_item_1) 
-                        packet_two_stack.append([_next_item_2])
+                        for _x in _list_2:
+                            item_2_stack.append(_x)
                     else:
-                        print(f"Second item list, but not first: {_next_item_1}, {_next_item_2}")
-                        if len(packet_two_stack) == 0:
-                            inspection_idx -= 1
+
+                        if type(item_1_stack[-1]) == int:
+                            _left_val = item_1_stack.pop()
+                            _right_list = item_2_stack.pop()
+
+                            while type(_right_list) == list and len(_right_list) > 0:
+                                _right_list = _right_list.pop(0)
+
+                            if  (type(_right_list) == int and _left_val > _right_list) or (type(_right_list) == list and len(_right_list) == 0):
+                                foundFaultyOrdering = True
+
+                            # // Solution if rules for mixed comparison extend beyond current element// 
+                            # _left_val = item_1_stack.pop()
+                            # item_1_stack.append([_left_val])
                         else:
-                            packet_two_stack.append(_next_item_2)
-                        packet_one_stack.append([_next_item_1])
+                            _left_list = item_1_stack.pop()
+                            _right_val = item_2_stack.pop()
 
-            print()
+                            while type(_left_list) == list and len(_left_list) > 0:
+                                _left_list = _left_list.pop(0)
 
-        return right_order
+                            # print(f"Left List: {_left_list},\tRight Val: {_right_val}")
+
+                            if type(_left_list) == int and _left_list > _right_val:
+                                foundFaultyOrdering = True
+                            
+                            # // Solution if rules for mixed comparison extend beyond current element// 
+                            # _right_val = item_2_stack.pop()
+                            # item_2_stack.append([_right_val])
+            else:
+                if len(item_1) != 0 and len(item_2) != 0:
+                    item_1_stack.append(item_1.pop(0))
+                    item_2_stack.append(item_2.pop(0))
+                else:
+                    if len(item_2) == 0:
+                        foundFaultyOrdering = True
+                        item_1 = []
+                    else:
+                        item_2 = []
+
+        return foundFaultyOrdering
 
     def __str__(self):
         return str(self.packet_1) + " - " + str(self.packet_2)
 
-file = open("day_13_input_test.txt", "r")
+file = open("day_13_input.txt", "r")
 data = file.read().strip().split("\n")
 file.close()
 
@@ -174,13 +148,19 @@ for line in data:
         packet_id += 1
         _next_pair = PacketPair(packet_id)
 
-
         parse_phase = "packet_one"
 
 packet_pair_list.append(_next_pair)
 
+correct_sum = 0
+
 for _p in packet_pair_list:
-    print(f"=========== Pair {_p.id} ===========")
-    print(f"Pair {_p.id} right order is {_p.comparePackets()}")
+    if not _p.isError():
+        correct_sum += _p.id
+    #print(f"=========== Pair {_p.id} ===========")
+    #print(f"Pair {_p.id} right order is {not _p.comparePackets()}")
     
-    print("*"*100)
+    #print("*"*100)
+
+# 552 was too low, 562 still too low
+print(correct_sum)
